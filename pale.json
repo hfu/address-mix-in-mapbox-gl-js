@@ -20,7 +20,7 @@
       "raster-fade-duration": 100,
       "raster-saturation": -1.0,
       "raster-brightness-min": 0.1,
-      "raster-brightness-max": 0.6
+      "raster-brightness-max": 0.4
     }
   }]
 }
